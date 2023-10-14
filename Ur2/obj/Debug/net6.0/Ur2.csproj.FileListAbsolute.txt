@@ -1,0 +1,15 @@
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\bin\Debug\net6.0\Ur2.exe
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\bin\Debug\net6.0\Ur2.deps.json
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\bin\Debug\net6.0\Ur2.runtimeconfig.json
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\bin\Debug\net6.0\Ur2.dll
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\bin\Debug\net6.0\Ur2.pdb
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.csproj.AssemblyReference.cache
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.AssemblyInfoInputs.cache
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.AssemblyInfo.cs
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.csproj.CoreCompileInputs.cache
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.dll
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\refint\Ur2.dll
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.pdb
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\Ur2.genruntimeconfig.cache
+C:\Users\Heckfy\Desktop\UrokWork)\Ur2\obj\Debug\net6.0\ref\Ur2.dll
